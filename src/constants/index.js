@@ -213,6 +213,7 @@ import {
       ],
       image: myportfolio,
       source_code_link: "https://github.com/NobilGautam/MyPortfolio",
+      website_link: "https://nobilportfolio.netlify.app/"
     },
     {
       name: "OpenAI Summarizer",
@@ -238,6 +239,7 @@ import {
       ],
       image: openaisum,
       source_code_link: "https://github.com/NobilGautam/",
+      website_link: "https://openaisummariser.netlify.app"
     },
     {
       name: "Ashwamedh App",
@@ -259,6 +261,7 @@ import {
       ],
       image: ashwamedh,
       source_code_link: "https://github.com/NobilGautam/JaiAshwamedh",
+      website_link: "#"
     },
     // {
     //   name: "Car Rent",
