@@ -238,7 +238,7 @@ import {
         },
       ],
       image: openaisum,
-      source_code_link: "https://github.com/NobilGautam/",
+      source_code_link: "https://github.com/NobilGautam/openaisummariser",
       website_link: "https://openaisummariser.netlify.app"
     },
     {
