@@ -211,7 +211,7 @@ import {
         },
       ],
       image: myportfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/NobilGautam/MyPortfolio",
     },
     {
       name: "OpenAI Summarizer",
@@ -236,7 +236,28 @@ import {
         },
       ],
       image: openaisum,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/NobilGautam/",
+    },
+    {
+      name: "Ashwamedh App",
+      description:
+        "Ashwamedh: An innovative Java-based Android app empowering NSUT's dramatics society with seamless attendance tracking and efficient resource management.",
+      tags: [
+        {
+          name: "Android SDK",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Java",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: ashwamedh,
+      source_code_link: "https://github.com/NobilGautam/JaiAshwamedh",
     },
     // {
     //   name: "Car Rent",

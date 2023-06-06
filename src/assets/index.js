@@ -35,10 +35,12 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import myportfolio from "./nobilportfolio.png";
 import openaisum from "./openaisummariser.png";
+import ashwamedh from "./ashwapp.jpg"
 
 export {
   myportfolio,
   openaisum,
+  ashwamedh,
   logo,
   backend,
   androidsdk,
