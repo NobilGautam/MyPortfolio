@@ -3,6 +3,7 @@ import {
     mobile,
     backend,
     creator,
+    ashwamedh,
     web,
     javascript,
     typescript,
